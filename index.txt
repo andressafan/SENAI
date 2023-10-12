@@ -1,10 +1,6 @@
 <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
-<<<<<<< Updated upstream
-   <H1> TÍTULO1 </H1>
-=======
    <H1> GIT </H1>
->>>>>>> Stashed changes
 </BODY>
 </HTML>
